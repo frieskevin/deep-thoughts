@@ -1,6 +1,9 @@
 
   # Deep Thoughts
   
+  [Deployed on Heroku](https://salty-cove-54516.herokuapp.com/)
+  
+  <img width="907" alt="deep thoughts" src="https://user-images.githubusercontent.com/108202153/211723693-2503b3ad-4375-4b89-a262-1113b2bbc72a.png">
 
   ## Description
 
@@ -8,10 +11,6 @@
 
   ## Table of Contents
   - [Installataion](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contribution Guidelines](#contributing)
-  - [Testing Instructions](#tests)
   - [Questions](#questions)
 
   ## Installation
@@ -43,12 +42,3 @@
   [mrfries@gmail.com](mrfries@gmail.com)
 
   [frieskevin](https://www.github.com/frieskevin)
-  
-
-
-
-
-
-# deep-thoughts
-
-[Deployed on Heroku](https://salty-cove-54516.herokuapp.com/)
